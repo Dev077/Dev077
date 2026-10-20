@@ -1,6 +1,6 @@
 ## Hi there
 
-My name's Dev(my parents may have seen something to name me after the developer abbreviation). 
+
 
 <!--
 **Dev077/Dev077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
